@@ -1,0 +1,21 @@
+.profile-image img{
+    border: 2px solid white;
+    width: 60%;
+    border-radius: 50%;
+}
+
+.management span{
+    color: rgb(31, 29, 29);
+    font-size: 1rem;
+    font-style: italic;
+    font-family: sans-serif;
+}
+
+.management-title{
+    text-align: center;
+    color: rgb(31, 29, 29);
+    font-style: italic;
+    font-family: sans-serif;
+    margin: 2rem;
+    letter-spacing: 0.5em;
+}
