@@ -4,7 +4,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import "./Management.css";
 const Management = () => {
   return (
-    <div className="management mt-5 ">
+    <div className="management  ">
       <h1 className="management-title">K-Garden Staff</h1>
 
       <Container  className="package-pics">

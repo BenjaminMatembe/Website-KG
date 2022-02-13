@@ -18,12 +18,12 @@
   position: absolute;
   font-size: xx-large;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  color: rgba(251, 250, 255, 0.986);
+  color: rgba(3, 65, 18, 0.986);
  font-weight: 600;
   height: 100%;
   width: 100%;
   display: flex;
-  background: rgba(112, 112, 111, 0.692);
+  background: rgba(202, 202, 196, 0.692);
   flex-direction: column;
   justify-content: center;
   letter-spacing: 2px;

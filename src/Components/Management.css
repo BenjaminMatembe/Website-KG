@@ -5,7 +5,7 @@
 }
 
 .management span{
-    color: rgb(31, 29, 29);
+    color: rgba(3, 65, 18, 0.986);
     font-size: 1rem;
     font-style: italic;
     font-family: sans-serif;
@@ -13,9 +13,11 @@
 
 .management-title{
     text-align: center;
-    color: rgb(31, 29, 29);
+    color: rgba(3, 65, 18, 0.986);
     font-style: italic;
     font-family: sans-serif;
     margin: 2rem;
     letter-spacing: 0.5em;
+    box-shadow: 5px 10px rgba(3, 65, 18, 0.986);
+    
 }
