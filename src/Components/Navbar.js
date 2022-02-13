@@ -1,4 +1,5 @@
-import { Navbar, Nav, Container, NavDropdown } from "react-bootstrap";
+import React from 'react';
+// import { Navbar, Nav, Container, NavDropdown } from "react-bootstrap";
 import "./Navbar.css";
 const App = () => {
   return (
@@ -10,12 +11,12 @@ const App = () => {
   </div>
   <div className="nav-links">
     <ul className="links">
-      <li><a href="Home">Home</a></li>
-      <li><a href="Management">Management</a></li>
-      <li><a href="Gallery">Gallery</a></li>
-      <li><a href="Accomodation">Accomodation</a></li>
-      <li><a href="K-Bar">K-Bar</a></li>
-      <li><a href="Kitchen">Kitchen</a></li>
+      <li><a href="#Home">Home</a></li>#
+      <li><a href="#Management">Management</a></li>
+      <li><a href="#Gallery">Gallery</a></li>
+      <li><a href="#Accomodation">Accomodation</a></li>
+      <li><a href="#K-Bar">K-Bar</a></li>
+      <li><a href="#Kitchen">Kitchen</a></li>
     </ul>
   </div>
 </div>

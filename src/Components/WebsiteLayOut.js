@@ -1,3 +1,4 @@
+import React from 'react';
 import { Container, Row, Col } from "react-bootstrap";
 import Management from "./Management";
 import Welcome from "./Welcome";

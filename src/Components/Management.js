@@ -1,3 +1,4 @@
+import React from 'react';
 import pic1 from "../Pictures/profile-pic.jpg";
 import pic2 from "../Pictures/profile-pic1.jfif";
 import { Container, Row, Col } from "react-bootstrap";
