@@ -8,14 +8,16 @@
     color: rgba(3, 65, 18, 0.986);
     font-size: 1rem;
     font-style: italic;
-    font-family: sans-serif;
+    /* font-family: sans-serif; */
+    font-family: 'Redressed', cursive;
 }
 
 .management-title{
     text-align: center;
     color: rgba(3, 65, 18, 0.986);
     font-style: italic;
-    font-family: sans-serif;
+    /* font-family: sans-serif; */
+    font-family: 'Redressed', cursive;
     margin: 2rem;
     letter-spacing: 0.5em;
     box-shadow: 5px 10px rgba(3, 65, 18, 0.986);

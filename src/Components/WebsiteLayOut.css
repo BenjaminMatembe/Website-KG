@@ -17,7 +17,8 @@
 .overlay-welcome-page {
   position: absolute;
   font-size: xx-large;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+  font-family: 'Redressed', cursive;
   color: rgba(3, 65, 18, 0.986);
  font-weight: 600;
   height: 100%;
@@ -27,6 +28,7 @@
   flex-direction: column;
   justify-content: center;
   letter-spacing: 2px;
+  font-style: italic;
 
   /* justify-items: center; */
   align-items: center;

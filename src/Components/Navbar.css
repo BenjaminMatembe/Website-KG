@@ -18,7 +18,13 @@
     font-size: 1.5rem;
     font-style: italic;
     color: rgb(250, 243, 243);
+    transition: 0.5s;
     
+
+}
+.nav-log span a:hover{
+    transform: scale(1.2);
+    color: aqua;
 
 }
 .nav-contents{
@@ -42,6 +48,12 @@
     white-space: nowrap;
     font-size:1rem ;
     font-style: italic;
+    transition: 0.5s;
     
     
+}
+
+.links li a:hover{
+    transform: scale(1.3);
+    color: aqua;
 }
